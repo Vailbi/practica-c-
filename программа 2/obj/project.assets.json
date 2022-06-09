@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Федор\\.nuget\\packages\\": {}
+    "/Users/appleid/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Geekbrains\\С#\\Урок 1 лекция 1\\программа 2\\программа 2.csproj",
+      "projectUniqueName": "/Users/appleid/Documents/С#/Практика с лекций/practica-c-/программа 2/программа 2.csproj",
       "projectName": "программа 2",
-      "projectPath": "E:\\Geekbrains\\С#\\Урок 1 лекция 1\\программа 2\\программа 2.csproj",
-      "packagesPath": "C:\\Users\\Федор\\.nuget\\packages\\",
-      "outputPath": "E:\\Geekbrains\\С#\\Урок 1 лекция 1\\программа 2\\obj\\",
+      "projectPath": "/Users/appleid/Documents/С#/Практика с лекций/practica-c-/программа 2/программа 2.csproj",
+      "packagesPath": "/Users/appleid/.nuget/packages/",
+      "outputPath": "/Users/appleid/Documents/С#/Практика с лекций/practica-c-/программа 2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Федор\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/appleid/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }
